@@ -46,3 +46,7 @@ Wat2Watch was created using these technologies
 
 ## DEPLOYED SITE
 [heroku link](https://wat2watch-p2.herokuapp.com/)
+
+## TEST ACCOUNT
+User: test
+Password: test123
