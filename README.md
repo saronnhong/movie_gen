@@ -44,3 +44,5 @@ Wat2Watch was created using these technologies
 ## GITHUB
 [github link](https://github.com/vinirg22/movie_gen)
 
+## DEPLOYED SITE
+[heroku link](https://wat2watch-p2.herokuapp.com/)
